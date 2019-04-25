@@ -1,5 +1,4 @@
 #Takes hampmap file and produces an output file after appling maf,het filters
-#Shows genomic region responsible for YG3 mutant phenotype
 setwd("C:/Users/sorgini2/Desktop/hap_to_num")
 directory="C:/Users/sorgini2/Desktop/hap_to_num/"
 file_list1=list.files(directory)
