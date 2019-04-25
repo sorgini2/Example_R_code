@@ -1,3 +1,5 @@
+#This creates a master plot of all QTL found across locations and is scaled to genome size
+#See Simplified script for one location with multiple phenotypes.
 setwd("~/Dropbox/IBM_GxE_Directory")
 library(plyr)
 library(qtl)
