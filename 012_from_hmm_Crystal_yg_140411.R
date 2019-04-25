@@ -1,4 +1,5 @@
 #hmm parent format to 012
+#Maps genomic region responsible for YG3 mutant phenotype
   setwd("~/illum/maize/hmm2")
   directory="~/illum/maize/hmm2/"
     file_list1=list.files(directory)
